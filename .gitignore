@@ -1,0 +1,7 @@
+pki
+*.key
+*.crt
+*.p12
+*.pkcs12
+*.ovpn
+*.ovpn12
